@@ -5,7 +5,7 @@ void	check_arguments(int argc)
 {
 	if (argc != 3)
 	{
-		write(1,"\n[expected format]\n ./client pid \"message\"\n", 44);
+		write(1, "\n[expected format]\n ./client pid \"message\"\n", 44);
 		exit(0);
 	}
 }
