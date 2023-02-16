@@ -1,9 +1,5 @@
 # minitalk
 
-<p align="center">
-  <img src="<a href="https://github.com/bellaiza/minitalk">![42 Badge](https://game.42sp.org.br/static/assets/achievements/minitalkm.png)</a>" alt="minitalkm 42 project badge"/>
-</p>
-
 ## About the project
 
 > The purpose of this project is to code a small data exchange program using UNIX signals.
